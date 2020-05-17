@@ -1,0 +1,37 @@
+﻿@page
+@model VetBookingsModel
+@{
+    ViewData["Title"] = "Vet Bookings";
+}
+
+<h1 class="display-4">Vet Bookings</h1>
+
+<p class="lead">Here you see a table with all vet bookings ordered by date.</p>
+
+<hr />
+
+<table class="table table-striped table-bordered dt-responsive nowrap">
+    <thead class="thead-light">
+        <tr>
+            <th>Date</th>
+            <th>Vet Id</th>
+            <th>Email</th>
+            <th>FirstName</th>
+            <th>LastName</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var vetBooking in Model.VetBookings)
+        {
+        <tr>
+            <td>@vetBooking.Date.ToShortDateString()</td>
+            <td>@vetBooking.VetId</td>
+            <td>@vetBooking.Email</td>
+            <td>@vetBooking.Pet</td>
+            <td>@vetBooking.FirstName</td>
+            <td>@vetBooking.LastName</td>
+        </tr>
+        }
+    </tbody>
+</table>
+

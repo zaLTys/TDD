@@ -1,0 +1,31 @@
+﻿@page
+@model VetsModel
+@{
+  ViewData["Title"] = "Vets";
+}
+
+<h1 class="display-4">Vets</h1>
+
+<p class="lead">Here you see a table with all vets available at VetClinic.</p>
+
+<hr />
+
+<table class="table table-striped table-bordered dt-responsive nowrap">
+  <thead class="thead-light">
+    <tr>
+      <th>Vet Id</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var vet in Model.Vets)
+    {
+      <tr>
+        <td>@vet.Id</td>
+        <td>@vet.Description</td>
+      </tr>
+    }
+  </tbody>
+</table>
+
+

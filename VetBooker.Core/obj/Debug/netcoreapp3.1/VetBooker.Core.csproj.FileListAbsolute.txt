@@ -1,0 +1,16 @@
+C:\Projects\VetBooker\DeskBooker.Core\bin\Debug\netcoreapp3.1\VetBooker.Core.deps.json
+C:\Projects\VetBooker\DeskBooker.Core\bin\Debug\netcoreapp3.1\VetBooker.Core.dll
+C:\Projects\VetBooker\DeskBooker.Core\bin\Debug\netcoreapp3.1\VetBooker.Core.pdb
+C:\Projects\VetBooker\DeskBooker.Core\obj\Debug\netcoreapp3.1\VetBooker.Core.csproj.CoreCompileInputs.cache
+C:\Projects\VetBooker\DeskBooker.Core\obj\Debug\netcoreapp3.1\VetBooker.Core.AssemblyInfoInputs.cache
+C:\Projects\VetBooker\DeskBooker.Core\obj\Debug\netcoreapp3.1\VetBooker.Core.AssemblyInfo.cs
+C:\Projects\VetBooker\DeskBooker.Core\obj\Debug\netcoreapp3.1\VetBooker.Core.dll
+C:\Projects\VetBooker\DeskBooker.Core\obj\Debug\netcoreapp3.1\VetBooker.Core.pdb
+C:\Projects\VetBooker\VetBooker.Core\bin\Debug\netcoreapp3.1\VetBooker.Core.deps.json
+C:\Projects\VetBooker\VetBooker.Core\bin\Debug\netcoreapp3.1\VetBooker.Core.dll
+C:\Projects\VetBooker\VetBooker.Core\bin\Debug\netcoreapp3.1\VetBooker.Core.pdb
+C:\Projects\VetBooker\VetBooker.Core\obj\Debug\netcoreapp3.1\VetBooker.Core.csproj.CoreCompileInputs.cache
+C:\Projects\VetBooker\VetBooker.Core\obj\Debug\netcoreapp3.1\VetBooker.Core.AssemblyInfoInputs.cache
+C:\Projects\VetBooker\VetBooker.Core\obj\Debug\netcoreapp3.1\VetBooker.Core.AssemblyInfo.cs
+C:\Projects\VetBooker\VetBooker.Core\obj\Debug\netcoreapp3.1\VetBooker.Core.dll
+C:\Projects\VetBooker\VetBooker.Core\obj\Debug\netcoreapp3.1\VetBooker.Core.pdb

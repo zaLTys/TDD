@@ -1,0 +1,26 @@
+﻿@page
+@model BookVetConfirmationModel
+@{
+  ViewData["Title"] = "Book Vet Confirmation";
+}
+
+<h1 class="display-4">Your vet is booked</h1>
+<p class="lead">
+  at our coffee shop in Zurich
+</p>
+<p>
+  Hi @Model.FirstName,
+  </p>
+<p>
+  A vet was booked for your pet <strong>@Model.Pet</strong>
+  on <strong>@Model.Date.ToShortDateString()</strong>.<br />
+  Your booking number is <strong>@Model.VetBookingId</strong>.<br />
+  We're looking forward to seeing you!
+</p>
+<p>
+  Your veterinarian clinic team
+</p>
+
+<div>
+  <a class="btn-primary btn" style="margin-top: 25px" asp-area="" asp-page="/BookVet">Book another vet</a>
+</div>

@@ -1,0 +1,43 @@
+﻿@page
+@model BookVetModel
+@{
+  ViewData["Title"] = "Book a Vet";
+}
+
+<h1 class="display-4">Book a vet</h1>
+<p class="lead">at our VetClinic for a full day.</p>
+
+<form method="post">
+
+  <div class="form-group">
+    <label asp-for="VetBookingRequest.FirstName" class="control-label"></label>
+    <input asp-for="VetBookingRequest.FirstName" class="form-control">
+    <span asp-validation-for="VetBookingRequest.FirstName" class="text-danger"></span>
+  </div>
+
+  <div class="form-group">
+    <label asp-for="VetBookingRequest.LastName" class="control-label"></label>
+    <input asp-for="VetBookingRequest.LastName" class="form-control">
+    <span asp-validation-for="VetBookingRequest.LastName" class="text-danger"></span>
+  </div>
+
+    <div class="form-group">
+        <label asp-for="VetBookingRequest.Email" class="control-label"></label>
+        <input asp-for="VetBookingRequest.Email" class="form-control">
+        <span asp-validation-for="VetBookingRequest.Email" class="text-danger"></span>
+    </div>
+    
+    <div class="form-group">
+        <label asp-for="VetBookingRequest.Pet" class="control-label"></label>
+        <input asp-for="VetBookingRequest.Pet" class="form-control">
+        <span asp-validation-for="VetBookingRequest.Pet" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+    <label asp-for="VetBookingRequest.Date" class="control-label"></label>
+    <input asp-for="VetBookingRequest.Date" asp-format="{0:dd/MM/yyyy}" class="form-control">
+    <span asp-validation-for="VetBookingRequest.Date" class="text-danger"></span>
+  </div>
+  <button type="submit" class="btn btn-primary">Book a vet</button>
+
+</form>
