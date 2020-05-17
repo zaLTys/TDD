@@ -22,3 +22,4 @@ C:\Projects\TDD\TDD\VetBooker.Core\obj\Debug\netcoreapp3.1\VetBooker.Core.Assemb
 C:\Projects\TDD\TDD\VetBooker.Core\obj\Debug\netcoreapp3.1\VetBooker.Core.AssemblyInfo.cs
 C:\Projects\TDD\TDD\VetBooker.Core\obj\Debug\netcoreapp3.1\VetBooker.Core.dll
 C:\Projects\TDD\TDD\VetBooker.Core\obj\Debug\netcoreapp3.1\VetBooker.Core.pdb
+C:\Projects\TDD\TDD\VetBooker.Core\obj\Debug\netcoreapp3.1\VetBooker.Core.csprojAssemblyReference.cache
