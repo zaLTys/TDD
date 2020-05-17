@@ -14,3 +14,11 @@ C:\Projects\VetBooker\VetBooker.Core\obj\Debug\netcoreapp3.1\VetBooker.Core.Asse
 C:\Projects\VetBooker\VetBooker.Core\obj\Debug\netcoreapp3.1\VetBooker.Core.AssemblyInfo.cs
 C:\Projects\VetBooker\VetBooker.Core\obj\Debug\netcoreapp3.1\VetBooker.Core.dll
 C:\Projects\VetBooker\VetBooker.Core\obj\Debug\netcoreapp3.1\VetBooker.Core.pdb
+C:\Projects\TDD\TDD\VetBooker.Core\bin\Debug\netcoreapp3.1\VetBooker.Core.deps.json
+C:\Projects\TDD\TDD\VetBooker.Core\bin\Debug\netcoreapp3.1\VetBooker.Core.dll
+C:\Projects\TDD\TDD\VetBooker.Core\bin\Debug\netcoreapp3.1\VetBooker.Core.pdb
+C:\Projects\TDD\TDD\VetBooker.Core\obj\Debug\netcoreapp3.1\VetBooker.Core.csproj.CoreCompileInputs.cache
+C:\Projects\TDD\TDD\VetBooker.Core\obj\Debug\netcoreapp3.1\VetBooker.Core.AssemblyInfoInputs.cache
+C:\Projects\TDD\TDD\VetBooker.Core\obj\Debug\netcoreapp3.1\VetBooker.Core.AssemblyInfo.cs
+C:\Projects\TDD\TDD\VetBooker.Core\obj\Debug\netcoreapp3.1\VetBooker.Core.dll
+C:\Projects\TDD\TDD\VetBooker.Core\obj\Debug\netcoreapp3.1\VetBooker.Core.pdb

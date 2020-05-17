@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\VetBooker\\VetBooker.Web.Tests\\VetBooker.Web.Tests.csproj": {}
+    "C:\\Projects\\TDD\\TDD\\VetBooker.Web.Tests\\VetBooker.Web.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\VetBooker\\VetBooker.Core.Tests\\VetBooker.Core.Tests.csproj": {
+    "C:\\Projects\\TDD\\TDD\\VetBooker.Core.Tests\\VetBooker.Core.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\VetBooker\\VetBooker.Core.Tests\\VetBooker.Core.Tests.csproj",
+        "projectUniqueName": "C:\\Projects\\TDD\\TDD\\VetBooker.Core.Tests\\VetBooker.Core.Tests.csproj",
         "projectName": "VetBooker.Core.Tests",
-        "projectPath": "C:\\Projects\\VetBooker\\VetBooker.Core.Tests\\VetBooker.Core.Tests.csproj",
+        "projectPath": "C:\\Projects\\TDD\\TDD\\VetBooker.Core.Tests\\VetBooker.Core.Tests.csproj",
         "packagesPath": "C:\\Users\\povil\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\VetBooker\\VetBooker.Core.Tests\\obj\\",
+        "outputPath": "C:\\Projects\\TDD\\TDD\\VetBooker.Core.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projects\\VetBooker\\VetBooker.Core\\VetBooker.Core.csproj": {
-                "projectPath": "C:\\Projects\\VetBooker\\VetBooker.Core\\VetBooker.Core.csproj"
+              "C:\\Projects\\TDD\\TDD\\VetBooker.Core\\VetBooker.Core.csproj": {
+                "projectPath": "C:\\Projects\\TDD\\TDD\\VetBooker.Core\\VetBooker.Core.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Projects\\VetBooker\\VetBooker.Core\\VetBooker.Core.csproj": {
+    "C:\\Projects\\TDD\\TDD\\VetBooker.Core\\VetBooker.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\VetBooker\\VetBooker.Core\\VetBooker.Core.csproj",
+        "projectUniqueName": "C:\\Projects\\TDD\\TDD\\VetBooker.Core\\VetBooker.Core.csproj",
         "projectName": "VetBooker.Core",
-        "projectPath": "C:\\Projects\\VetBooker\\VetBooker.Core\\VetBooker.Core.csproj",
+        "projectPath": "C:\\Projects\\TDD\\TDD\\VetBooker.Core\\VetBooker.Core.csproj",
         "packagesPath": "C:\\Users\\povil\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\VetBooker\\VetBooker.Core\\obj\\",
+        "outputPath": "C:\\Projects\\TDD\\TDD\\VetBooker.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -140,14 +140,14 @@
         }
       }
     },
-    "C:\\Projects\\VetBooker\\VetBooker.DataAccess.Tests\\VetBooker.DataAccess.Tests.csproj": {
+    "C:\\Projects\\TDD\\TDD\\VetBooker.DataAccess.Tests\\VetBooker.DataAccess.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\VetBooker\\VetBooker.DataAccess.Tests\\VetBooker.DataAccess.Tests.csproj",
+        "projectUniqueName": "C:\\Projects\\TDD\\TDD\\VetBooker.DataAccess.Tests\\VetBooker.DataAccess.Tests.csproj",
         "projectName": "VetBooker.DataAccess.Tests",
-        "projectPath": "C:\\Projects\\VetBooker\\VetBooker.DataAccess.Tests\\VetBooker.DataAccess.Tests.csproj",
+        "projectPath": "C:\\Projects\\TDD\\TDD\\VetBooker.DataAccess.Tests\\VetBooker.DataAccess.Tests.csproj",
         "packagesPath": "C:\\Users\\povil\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\VetBooker\\VetBooker.DataAccess.Tests\\obj\\",
+        "outputPath": "C:\\Projects\\TDD\\TDD\\VetBooker.DataAccess.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -166,8 +166,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projects\\VetBooker\\VetBooker.DataAccess\\VetBooker.DataAccess.csproj": {
-                "projectPath": "C:\\Projects\\VetBooker\\VetBooker.DataAccess\\VetBooker.DataAccess.csproj"
+              "C:\\Projects\\TDD\\TDD\\VetBooker.DataAccess\\VetBooker.DataAccess.csproj": {
+                "projectPath": "C:\\Projects\\TDD\\TDD\\VetBooker.DataAccess\\VetBooker.DataAccess.csproj"
               }
             }
           }
@@ -225,14 +225,14 @@
         }
       }
     },
-    "C:\\Projects\\VetBooker\\VetBooker.DataAccess\\VetBooker.DataAccess.csproj": {
+    "C:\\Projects\\TDD\\TDD\\VetBooker.DataAccess\\VetBooker.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\VetBooker\\VetBooker.DataAccess\\VetBooker.DataAccess.csproj",
+        "projectUniqueName": "C:\\Projects\\TDD\\TDD\\VetBooker.DataAccess\\VetBooker.DataAccess.csproj",
         "projectName": "VetBooker.DataAccess",
-        "projectPath": "C:\\Projects\\VetBooker\\VetBooker.DataAccess\\VetBooker.DataAccess.csproj",
+        "projectPath": "C:\\Projects\\TDD\\TDD\\VetBooker.DataAccess\\VetBooker.DataAccess.csproj",
         "packagesPath": "C:\\Users\\povil\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\VetBooker\\VetBooker.DataAccess\\obj\\",
+        "outputPath": "C:\\Projects\\TDD\\TDD\\VetBooker.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -251,8 +251,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projects\\VetBooker\\VetBooker.Core\\VetBooker.Core.csproj": {
-                "projectPath": "C:\\Projects\\VetBooker\\VetBooker.Core\\VetBooker.Core.csproj"
+              "C:\\Projects\\TDD\\TDD\\VetBooker.Core\\VetBooker.Core.csproj": {
+                "projectPath": "C:\\Projects\\TDD\\TDD\\VetBooker.Core\\VetBooker.Core.csproj"
               }
             }
           }
@@ -290,14 +290,14 @@
         }
       }
     },
-    "C:\\Projects\\VetBooker\\VetBooker.Web.Tests\\VetBooker.Web.Tests.csproj": {
+    "C:\\Projects\\TDD\\TDD\\VetBooker.Web.Tests\\VetBooker.Web.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\VetBooker\\VetBooker.Web.Tests\\VetBooker.Web.Tests.csproj",
+        "projectUniqueName": "C:\\Projects\\TDD\\TDD\\VetBooker.Web.Tests\\VetBooker.Web.Tests.csproj",
         "projectName": "VetBooker.Web.Tests",
-        "projectPath": "C:\\Projects\\VetBooker\\VetBooker.Web.Tests\\VetBooker.Web.Tests.csproj",
+        "projectPath": "C:\\Projects\\TDD\\TDD\\VetBooker.Web.Tests\\VetBooker.Web.Tests.csproj",
         "packagesPath": "C:\\Users\\povil\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\VetBooker\\VetBooker.Web.Tests\\obj\\",
+        "outputPath": "C:\\Projects\\TDD\\TDD\\VetBooker.Web.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -316,20 +316,20 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projects\\VetBooker\\VetBooker.Core.Tests\\VetBooker.Core.Tests.csproj": {
-                "projectPath": "C:\\Projects\\VetBooker\\VetBooker.Core.Tests\\VetBooker.Core.Tests.csproj"
+              "C:\\Projects\\TDD\\TDD\\VetBooker.Core.Tests\\VetBooker.Core.Tests.csproj": {
+                "projectPath": "C:\\Projects\\TDD\\TDD\\VetBooker.Core.Tests\\VetBooker.Core.Tests.csproj"
               },
-              "C:\\Projects\\VetBooker\\VetBooker.Core\\VetBooker.Core.csproj": {
-                "projectPath": "C:\\Projects\\VetBooker\\VetBooker.Core\\VetBooker.Core.csproj"
+              "C:\\Projects\\TDD\\TDD\\VetBooker.Core\\VetBooker.Core.csproj": {
+                "projectPath": "C:\\Projects\\TDD\\TDD\\VetBooker.Core\\VetBooker.Core.csproj"
               },
-              "C:\\Projects\\VetBooker\\VetBooker.DataAccess.Tests\\VetBooker.DataAccess.Tests.csproj": {
-                "projectPath": "C:\\Projects\\VetBooker\\VetBooker.DataAccess.Tests\\VetBooker.DataAccess.Tests.csproj"
+              "C:\\Projects\\TDD\\TDD\\VetBooker.DataAccess.Tests\\VetBooker.DataAccess.Tests.csproj": {
+                "projectPath": "C:\\Projects\\TDD\\TDD\\VetBooker.DataAccess.Tests\\VetBooker.DataAccess.Tests.csproj"
               },
-              "C:\\Projects\\VetBooker\\VetBooker.DataAccess\\VetBooker.DataAccess.csproj": {
-                "projectPath": "C:\\Projects\\VetBooker\\VetBooker.DataAccess\\VetBooker.DataAccess.csproj"
+              "C:\\Projects\\TDD\\TDD\\VetBooker.DataAccess\\VetBooker.DataAccess.csproj": {
+                "projectPath": "C:\\Projects\\TDD\\TDD\\VetBooker.DataAccess\\VetBooker.DataAccess.csproj"
               },
-              "C:\\Projects\\VetBooker\\VetBooker.Web\\VetBooker.Web.csproj": {
-                "projectPath": "C:\\Projects\\VetBooker\\VetBooker.Web\\VetBooker.Web.csproj"
+              "C:\\Projects\\TDD\\TDD\\VetBooker.Web\\VetBooker.Web.csproj": {
+                "projectPath": "C:\\Projects\\TDD\\TDD\\VetBooker.Web\\VetBooker.Web.csproj"
               }
             }
           }
@@ -386,14 +386,14 @@
         }
       }
     },
-    "C:\\Projects\\VetBooker\\VetBooker.Web\\VetBooker.Web.csproj": {
+    "C:\\Projects\\TDD\\TDD\\VetBooker.Web\\VetBooker.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\VetBooker\\VetBooker.Web\\VetBooker.Web.csproj",
+        "projectUniqueName": "C:\\Projects\\TDD\\TDD\\VetBooker.Web\\VetBooker.Web.csproj",
         "projectName": "VetBooker.Web",
-        "projectPath": "C:\\Projects\\VetBooker\\VetBooker.Web\\VetBooker.Web.csproj",
+        "projectPath": "C:\\Projects\\TDD\\TDD\\VetBooker.Web\\VetBooker.Web.csproj",
         "packagesPath": "C:\\Users\\povil\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\VetBooker\\VetBooker.Web\\obj\\",
+        "outputPath": "C:\\Projects\\TDD\\TDD\\VetBooker.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -412,11 +412,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projects\\VetBooker\\VetBooker.Core\\VetBooker.Core.csproj": {
-                "projectPath": "C:\\Projects\\VetBooker\\VetBooker.Core\\VetBooker.Core.csproj"
+              "C:\\Projects\\TDD\\TDD\\VetBooker.Core\\VetBooker.Core.csproj": {
+                "projectPath": "C:\\Projects\\TDD\\TDD\\VetBooker.Core\\VetBooker.Core.csproj"
               },
-              "C:\\Projects\\VetBooker\\VetBooker.DataAccess\\VetBooker.DataAccess.csproj": {
-                "projectPath": "C:\\Projects\\VetBooker\\VetBooker.DataAccess\\VetBooker.DataAccess.csproj"
+              "C:\\Projects\\TDD\\TDD\\VetBooker.DataAccess\\VetBooker.DataAccess.csproj": {
+                "projectPath": "C:\\Projects\\TDD\\TDD\\VetBooker.DataAccess\\VetBooker.DataAccess.csproj"
               }
             }
           }

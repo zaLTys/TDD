@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7lnOGEzXdlLKEVyLdZqDrDSUDZ+vaLvhPBZ0i7ujm8UshY0YLKyecLHWPSwTn7Ozqfa92ewQtxbocWN2Z/AB+w==",
+  "dgSpecHash": "ymtvkLEMJURTwAhu6V0Wn1dKWivm2qq8mQ964bFi6DU/9VpgSrxOSYvGLlE2lEhgszfmdyoNWyiXEdVmy5YlnA==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\VetBooker\\VetBooker.Core.Tests\\VetBooker.Core.Tests.csproj",
+  "projectFilePath": "C:\\Projects\\TDD\\TDD\\VetBooker.Core.Tests\\VetBooker.Core.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\povil\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\povil\\.nuget\\packages\\coverlet.collector\\1.1.0\\coverlet.collector.1.1.0.nupkg.sha512",

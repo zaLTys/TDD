@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V5A1hJ6+Hc4SLW9b/har1VP3pws9Bw4newAXDGbBTJ80+QMcEc02OaXsPNl4YJbPv4QTIrAyU9jGWykLgr+ppQ==",
+  "dgSpecHash": "chBvaZJI1a6CQ/yk8lNrit0mwIGPneHe/nOauSNR81JDeJvbY/5QEp/eUMjP81RvpyxP2/qaCIfIopYq+jVxig==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\VetBooker\\VetBooker.Core\\VetBooker.Core.csproj",
+  "projectFilePath": "C:\\Projects\\TDD\\TDD\\VetBooker.Core\\VetBooker.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

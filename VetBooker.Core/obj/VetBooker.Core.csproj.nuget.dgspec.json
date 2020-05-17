@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\VetBooker\\VetBooker.Core\\VetBooker.Core.csproj": {}
+    "C:\\Projects\\TDD\\TDD\\VetBooker.Core\\VetBooker.Core.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\VetBooker\\VetBooker.Core\\VetBooker.Core.csproj": {
+    "C:\\Projects\\TDD\\TDD\\VetBooker.Core\\VetBooker.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\VetBooker\\VetBooker.Core\\VetBooker.Core.csproj",
+        "projectUniqueName": "C:\\Projects\\TDD\\TDD\\VetBooker.Core\\VetBooker.Core.csproj",
         "projectName": "VetBooker.Core",
-        "projectPath": "C:\\Projects\\VetBooker\\VetBooker.Core\\VetBooker.Core.csproj",
+        "projectPath": "C:\\Projects\\TDD\\TDD\\VetBooker.Core\\VetBooker.Core.csproj",
         "packagesPath": "C:\\Users\\povil\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\VetBooker\\VetBooker.Core\\obj\\",
+        "outputPath": "C:\\Projects\\TDD\\TDD\\VetBooker.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

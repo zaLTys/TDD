@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using VetBooker.Core.Processor;
 
 namespace VetBooker.Web
 {
@@ -37,6 +38,7 @@ namespace VetBooker.Web
 
       services.AddTransient<IVetRepository, VetRepository>();
       services.AddTransient<IVetBookingRepository, VetBookingRepository>();
+      services.AddTransient<IVetBookingRequestProcessor, VetBookingRequestProcessor>();
     }
 
     private static void EnsureDatabaseExists(SqliteConnection connection)

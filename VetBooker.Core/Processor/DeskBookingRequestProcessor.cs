@@ -5,8 +5,8 @@ using System.Linq;
 
 namespace VetBooker.Core.Processor
 {
-  public class VetBookingRequestProcessor
-  {
+    public class VetBookingRequestProcessor : IVetBookingRequestProcessor
+    {
     private readonly IVetBookingRepository _vetBookingRepository;
     private readonly IVetRepository _vetRepository;
 

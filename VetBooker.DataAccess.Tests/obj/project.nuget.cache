@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "78A4A0YAwZO3m2eN/NuRYSE7lRaVQIksVLhHW8DBbqwUMSUuD1LPv7H41i4q6auCdee4b5MfvyE8Kf6LCTsqvw==",
+  "dgSpecHash": "kcDP29OA5YW2sNH5M6PamFbdWgccJW0z1j+txVMDzN+Zfq1GHzmSeB9sKluneCu0x8zUCLHEBbUJnYrIFllEpA==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\VetBooker\\VetBooker.DataAccess.Tests\\VetBooker.DataAccess.Tests.csproj",
+  "projectFilePath": "C:\\Projects\\TDD\\TDD\\VetBooker.DataAccess.Tests\\VetBooker.DataAccess.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\povil\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\povil\\.nuget\\packages\\coverlet.collector\\1.1.0\\coverlet.collector.1.1.0.nupkg.sha512",
